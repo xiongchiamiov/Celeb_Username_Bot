@@ -168,12 +168,21 @@ SarahShahiReply = """
 [WhoSay](http://www.whosay.com/sarahshahi)\n
 """
 
+IrinaShayk = ("irina", "shayk")
+IrinaShaykReply = """
+[Instagram](https://github.com/DrewsephA/Celeb_Username_Bot)\n
+[Twitter](https://twitter.com/theirishayk/)\n
+[Facebook](https://www.facebook.com/IrinaShayk)\n
+[Website](http://irinashaykofficial.com/)
+"""
+
 celebs = ({SelenaGomez: SelenaGomezReply}, {AlexisRen: AlexisRenReply}, {TaylorSwift: TaylorSwiftReply}, {McKaylaMaroney: McKaylaMaroneyReply},\
 {SarahHyland: SarahHylandReply}, {ArielWinter: ArielWinterReply}, {KarlieKloss: KarlieKlossReply}, {KendallJenner: KendallJennerReply},\
 {KylieJenner: KylieJennerReply}, {ChloeBennet: ChloeBennetReply}, {HayleyAtwell: HayleyAtwellReply}, {AnnaKendrick: AnnaKendrickReply},\
 {DaniThorne: DaniThorneReply}, {BellaThorne: BellaThorneReply}, {EmiliaClarke: EmiliaClarkeReply}, {JessicaBiel: JessicaBielReply},\
 {AshleyBenson: AshleyBensonReply}, {MelissaBenoist: MelissaBenoistReply}, {MilanaVayntrub: MilanaVayntrubReply}, {HeidiKlum: HeidiKlumReply},\
-{StanaKatic: StanaKaticReply}, {BlakeLively: BlakeLivelyReply}, {MelissaDebling: MelissaDeblingReply}, {SarahShahi: SarahShahiReply})
+{StanaKatic: StanaKaticReply}, {BlakeLively: BlakeLivelyReply}, {MelissaDebling: MelissaDeblingReply}, {SarahShahi: SarahShahiReply}\
+{IrinaShayk: IrinaShaykReply})
 
 #In this string put all+your+target_subreddits:
 subreddits_string = "celeb_username_bot+Celeb_Bot_Test+DrewsephA"
