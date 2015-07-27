@@ -15,12 +15,12 @@ try:
         done = pickle.load(f)
 
     subreddits = r.get_subreddit(subreddits_string)
-    submissions =  list(subreddits.get_new())
+    submissions =  list(subreddits.get_new(limit=50))
 
 except:
 
     subreddits = r.get_subreddit(subreddits_string)
-    submissions =  list(subreddits.get_new())
+    submissions =  list(subreddits.get_new(limit=50))
 
     done = []
     for submission in submissions:
@@ -52,7 +52,7 @@ def Word(Title, inGroup):
 
 def main():
 
-    submissions = list(subreddits.get_new())
+    submissions =  list(subreddits.get_new(limit=50))
 
     for submission in submissions:
 
@@ -64,7 +64,7 @@ def main():
                 with open('done', 'w') as f:
                     pickle.dump(done, f)
 
-                if submission.is_self == True: #Set to False before going Live
+                if submission.is_self == False: 
 
                     for i,j in enumerate(celebs):
                         if Word(submission.title, j.keys()[0]) == True:
@@ -91,5 +91,5 @@ if __name__ == "__main__":
             with open('errorlog.txt', 'a') as f:
                 f.writelines(log)
 
-        print "Sleeping for 2 minutes."
-        time.sleep(120)
+        print "Sleeping for 5 minutes."
+        time.sleep(300)
