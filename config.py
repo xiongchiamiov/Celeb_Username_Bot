@@ -303,6 +303,6 @@ celebs = ({SelenaGomez: SelenaGomezReply}, {AlexisRen: AlexisRenReply}, {TaylorS
 subreddits_string = "celeb_username_bot+Celeb_Bot_Test+DrewsephA"
 
 #When the script is ready delete the above two lines and remove the "#" from the line below
-#subreddits_string = "Celebs+CelebGfys+celebgifs+CelebsWallpaper+goddesses+VSModels+vsangels+Models+PrettyGirls+GirlswithGlasses+GirlswithGreenEyes+GirlswithWetHair+gmbwallpapers+nsfw_phone_wallpapers+swimsuit2015+VictoriaSecret+VictoriasSecret+VSfans+WtSSTaDaMiT+starlets+StarletsWallpaper+girlsinyogapants+girlsinyogashorts"
+#subreddits_string = "Celebs+CelebGfys+celebgifs+CelebsWallpaper+goddesses+VSModels+vsangels+Models+PrettyGirls+GirlswithGlasses+GirlswithGreenEyes+GirlswithWetHair+gmbwallpapers+VictoriaSecret+VictoriasSecret+VSfans+WtSSTaDaMiT+starlets+girlsinyogapants+girlsinyogashorts+BeautifulFemales"
 
 ''' ---------------------------------------------------------------------------------------------------------------- '''
