@@ -176,13 +176,126 @@ IrinaShaykReply = """
 [Website](http://irinashaykofficial.com/)
 """
 
+MarinaNery = ("marina", "nery")
+MarinaNeryReply = """
+[Instagram](https://instagram.com/marinadnery/)\n
+[Twitter](https://twitter.com/marinadnery)
+"""
+
+SandraRadav = ("sandra", "radav")
+SandraRadavReply = """
+[Instagram](https://instagram.com/sandraradav)\n
+[Twitter](https://twitter.com/SandraRadav)\n
+[YouTube channel](https://www.youtube.com/user/TheLovezumba)
+"""
+
+VanessaHudgens = ("vanessa", "hudgens")
+VanessaHudgensReply = """
+[Instagram](https://instagram.com/vanessahudgens)\n
+[Twitter](https://twitter.com/vanessahudgens)\n
+[Tumblr](http://vanessahudgens.tumblr.com/)\n
+[YouTube channel](https://www.youtube.com/vanessahudgens)\n
+[Facebook](https://www.facebook.com/VanessaHudgens)\n
+[Pinterest](https://www.pinterest.com/vanessahudgens/)
+"""
+
+KellyBrook = ("kelly", "brook")
+KellyBrookReply = """
+[Instagram](https://instagram.com/iamkb)\n
+[Twitter](https://twitter.com/IAMKELLYBROOK)\n
+[YouTube channel](https://www.youtube.com/user/kellybrookofficial)\n
+[Facebook](https://www.facebook.com/kellybrookofficial)\n
+[Website](http://kellybrook.com/)
+"""
+
+MandyMoore = ("mandy", "moore")
+MandyMooreReply = """
+[Instagram](https://instagram.com/mandymooremm/)\n
+[Twitter](https://twitter.com/TheMandyMoore)\n
+[Facebook](https://www.facebook.com/mandymooreofficial)
+"""
+
+AnnaFaith = ("anna", "faith")
+AnnaFaithReply = """
+[Instagram](https://instagram.com/annafaithxoxo/)\n
+[Twitter](https://twitter.com/TheAnnaFaith)\n
+[YouTube channel](https://www.youtube.com/channel/UCTcBaZEehmQeydOl1LTM_5Q/)\n
+ \n
+^Frost ^Sisters ^[instagram](https://instagram.com/frostsisters/) ^& ^[twitter](https://twitter.com/frostsisters)
+"""
+
+LexieGrace = ("lexie", "grace")
+LexieGraceReply = """
+[Instagram](https://instagram.com/Lexiegracelove/)\n
+[Twitter](https://twitter.com/lexiegracelove)\n
+ \n
+^Frost ^Sisters ^[instagram](https://instagram.com/frostsisters/) ^& ^[twitter](https://twitter.com/frostsisters)
+"""
+
+FrostSisters = ("frost", "sisters")
+FrostSistersReply = """
+[Instagram]()\n
+[Twitter]()\n
+ \n
+ **Anna Faith**\n
+[Instagram](https://instagram.com/annafaithxoxo/)\n
+[Twitter](https://twitter.com/TheAnnaFaith)\n
+[YouTube channel](https://www.youtube.com/channel/UCTcBaZEehmQeydOl1LTM_5Q/)\n
+ \n
+ **Lexie Grace**\n
+[Instagram](https://instagram.com/Lexiegracelove/)\n
+[Twitter](https://twitter.com/lexiegracelove)
+"""
+
+TaylorHannum = ("taylor", "hannum")
+TaylorHannumReply = """
+[Instagram](https://instagram.com/taylorhannum_)\n
+[Twitter](https://twitter.com/TaylorHannum)
+"""
+
+CaraDelevingne = ("cara", "delevingne")
+CaraDelevingneReply = """
+[Instagram](https://instagram.com/caradelevingne/)\n
+[Twitter](https://twitter.com/Caradelevingne)\n
+[Tumblr](http://iamcaradelevingne.tumblr.com/)
+"""
+
+LenaGercke = ("lena", "gercke")
+LenaGerckeReply = """
+[Instagram](https://instagram.com/lenagercke/)\n
+[Facebook](https://www.facebook.com/pages/Lena-Gercke/439297919435120)
+"""
+
+JenniferMorrison = ("jen", "jennifer", "jenny", "morrison")
+JenniferMorrisonReply = """
+[Instagram](https://instagram.com/jenmorrisonlive/)\n
+[Twitter](https://twitter.com/jenmorrisonlive/)\n
+[Facebook](https://www.facebook.com/JenniferMorrisonOfficial)
+"""
+
+MargotRobbie = ("margot", "robbie")
+MargotRobbieReply = """
+[Instagram](https://instagram.com/margotrobbieofficial)\n
+[Twitter](https://twitter.com/MargotRobbie)\n
+[Website](http://www.margotrobbie.com.au/)
+"""
+
+AlyssaArce = ("alyssa", "arce")
+AlyssaArceReply = """
+[Instagram](https://instagram.com/miss_alyssaarce/)\n
+[Twitter](https://twitter.com/missalyssaarce)
+"""
+
 celebs = ({SelenaGomez: SelenaGomezReply}, {AlexisRen: AlexisRenReply}, {TaylorSwift: TaylorSwiftReply}, {McKaylaMaroney: McKaylaMaroneyReply},\
 {SarahHyland: SarahHylandReply}, {ArielWinter: ArielWinterReply}, {KarlieKloss: KarlieKlossReply}, {KendallJenner: KendallJennerReply},\
 {KylieJenner: KylieJennerReply}, {ChloeBennet: ChloeBennetReply}, {HayleyAtwell: HayleyAtwellReply}, {AnnaKendrick: AnnaKendrickReply},\
 {DaniThorne: DaniThorneReply}, {BellaThorne: BellaThorneReply}, {EmiliaClarke: EmiliaClarkeReply}, {JessicaBiel: JessicaBielReply},\
 {AshleyBenson: AshleyBensonReply}, {MelissaBenoist: MelissaBenoistReply}, {MilanaVayntrub: MilanaVayntrubReply}, {HeidiKlum: HeidiKlumReply},\
 {StanaKatic: StanaKaticReply}, {BlakeLively: BlakeLivelyReply}, {MelissaDebling: MelissaDeblingReply}, {SarahShahi: SarahShahiReply}\
-{IrinaShayk: IrinaShaykReply})
+{IrinaShayk: IrinaShaykReply}, {MarinaNery: MarinaNeryReply}, {SandraRadav: SandraRadavReply}, {VanessaHudgens: VanessaHudgensReply}\
+{KellyBrook: KellyBrookReply}, {MandyMoore: MandyMooreReply}, {AnnaFaith: AnnaFaithReply}, {LexieGrace: LexieGraceReply}, {FrostSisters: FrostSistersReply},\
+{TaylorHannum: TaylorHannumReply}, {CaraDelevingne: CaraDelevingneReply}, {LenaGercke: LenaGerckeReply}, {JenniferMorrison: JenniferMorrisonReply}\
+{MargotRobbie: MargotRobbieReply}, {AlyssaArce: AlyssaArceReply})
 
 #In this string put all+your+target_subreddits:
 subreddits_string = "celeb_username_bot+Celeb_Bot_Test+DrewsephA"
