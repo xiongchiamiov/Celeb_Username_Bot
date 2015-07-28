@@ -1,20 +1,15 @@
 This is the "To-Do" list of celebs to add to the bot.
-* Marina Nery
-* sandra radav
-* vanessa hudgens
-* jenna louise coleman
-* kelly brook
-* mandy moore?
-* madalina pica?
-* anna faith and her sister and their celeb account
-* taylor hannum
-* cara delevingne
-* lena gercke
-* heather graham
-* jennifer morrison
-* margot robbie
-* gemma arterton
-* alyssa arce
+~~~~ indicates that the celeb either doesn't have social
+     media at all, or doesn't have any that can be verified.
+     If you know the social media username of the celeb,
+     please message the /r/Celeb_Username_Bot mods or 
+     submit a pull request with the correct information 
+     in it. Credit will be given in the source code if 
+     you provide helpful information that gets used.
+* ~~jenna louise coleman~~
+* ~~madalina pica~~
+* ~~heather graham~~
+* ~~gemma arterton~~
 * miranda kerr
 * karlie kloss
 * elsa hosk
