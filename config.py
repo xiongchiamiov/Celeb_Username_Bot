@@ -219,6 +219,7 @@ AnnaFaith = ("anna", "faith")
 AnnaFaithReply = """
 [Instagram](https://instagram.com/annafaithxoxo/)\n
 [Twitter](https://twitter.com/TheAnnaFaith)\n
+Snapchat: AnnaFaithBae\n
 [YouTube channel](https://www.youtube.com/channel/UCTcBaZEehmQeydOl1LTM_5Q/)\n
  \n
 ^Frost ^Sisters ^[instagram](https://instagram.com/frostsisters/) ^& ^[twitter](https://twitter.com/frostsisters)
@@ -240,6 +241,7 @@ FrostSistersReply = """
  **Anna Faith**\n
 [Instagram](https://instagram.com/annafaithxoxo/)\n
 [Twitter](https://twitter.com/TheAnnaFaith)\n
+Snapchat: AnnaFaithBae\n
 [YouTube channel](https://www.youtube.com/channel/UCTcBaZEehmQeydOl1LTM_5Q/)\n
  \n
  **Lexie Grace**\n
