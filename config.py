@@ -334,16 +334,146 @@ MirandaKerrReply = """
 \n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
 """
 
+KarlieKloss = ("karlie", "kloss")
+KarlieKlossReply = """
+[Instagram](https://instagram.com/karliekloss/)\n
+[Twitter](https://twitter.com/karliekloss/)\n
+[YouTube channel: Klossy](https://www.youtube.com/c/karliekloss)\n
+[Facebook](https://www.facebook.com/KarlieKloss)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+ElsaHosk = ("elsa", "hosk")
+ElsaHoskReply = """
+[Instagram](https://instagram.com/hoskelsa/)\n
+[Twitter](https://twitter.com/elsahosk)\n
+[Facebook](https://www.facebook.com/hoskelsa)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+""
+
+CandiceSwanepoel = ("candice", "swanepoel")
+CandiceSwanepoelReply = """
+[Instagram](https://instagram.com/angelcandices)\n
+[Twitter](https://twitter.com/angelcandice/)\n
+[Facebook](https://www.facebook.com/angelcandices)\n
+[Website](http://www.candiceswanepoel.com/home.php)\n
+[Pinterest](https://www.pinterest.com/angelcandice/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+MeganFox = ("megan", "fox")
+MeganFoxReply = """
+[Instagram](https://instagram.com/the_native_tiger/)\n
+[Twitter](https://twitter.com/meganfox)\n
+[Facebook](https://www.facebook.com/MeganFox)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+IzzyMarshall = ("izzy", "marshall")
+IzzyMarshallReply = """
+[Instagram](https://instagram.com/_izzymarshall/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+ArianaGrande = ("ariana", "grande")
+ArianaGrandeReply = """
+[Instagram](https://instagram.com/arianagrande)\n
+[Twitter](https://twitter.com/arianagrande)\n
+[YouTube channel(personal)](https://www.youtube.com/user/osnapitzari)\n
+[Facebook](https://www.facebook.com/arianagrande)\n
+[YouTubeVEVO](https://www.youtube.com/user/ArianaGrandeVevo)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+NathalieEmmanuel = ("nathalie", "emmanuel")
+NathalieEmmanuelReply = """
+[Instagram](https://instagram.com/nathalieemmanuel/)\n
+[Twitter](https://twitter.com/missnemmanuel)\n
+[Tumblr tag (nsfw)](https://www.tumblr.com/search/nathalie+emmanuel)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+HannahFerguson = ("hannah", "ferguson")
+HannahFergusonReply = """
+[Instagram](https://instagram.com/hannahfergusonofficial/)\n
+[Twitter](https://twitter.com/thehannahferg)\n
+[Facebook](https://www.facebook.com/TheHannahFerg)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+KateHudson = ("kate", "hudson")
+KateHudsonReply = """
+[Instagram](https://instagram.com/katehudson/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+NinaDobrev = ("nina", "dobrev")
+NinaDobrevReply = """
+[Instagram](https://instagram.com/ninadobrev)\n
+[Twitter](https://twitter.com/ninadobrev/)\n
+[Tumblr](https://ninadobrev.tumblr.com/)\n
+[Facebook](https://www.facebook.com/NinaDobrev)\n
+[Website/whosay](http://www.ninadobrev.com/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+DaphneJoy = ("daphne", "joy")
+DaphneJoyReply = """
+Snapchat: DaphneJoyLove\n
+[Instagram](https://instagram.com/daphnejoy/)\n
+[Twitter](https://twitter.com/DaphneJoy)\n
+[Website](http://www.daphnejoy.com/site/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+EmilyRudd = ("emily", "rudd")
+EmilyRuddReply = """
+Snapchat: emilysteaparty\n
+[Instagram](https://instagram.com/emilysteaparty/)\n
+[Twitter](https://www.twitter.com/emilysteaparty)\n
+[Tumblr](https://emilysteaparty.tumblr.com)\n
+[YouTube channel](https://www.youtube.com/user/emilysteaparty)\n
+[Facebook](https://www.facebook.com/emilyruddofficial)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+OliviaCulpo = ("olivia", "culpo")
+OliviaCulpoReply = """
+[Instagram](https://instagram.com/oliviaculpo)\n
+[Twitter](https://twitter.com/oliviaculpo)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+OdetteAnnable = ("odette", "annable")
+OdetteAnnableReply = """
+[Instagram](https://instagram.com/odetteannable)\n
+[Twitter](https://twitter.com/OdetteAnnable)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+OlgaKurylenko = ("olga", "kurylenko")
+OlgaKurylenkoReply = """
+[Instagram](https://instagram.com/olgakurylenkoofficial/)\n
+[Twitter](https://twitter.com/OlyaKurylenko)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+BrendaSong = (
+
 celebs = ({SelenaGomez: SelenaGomezReply}, {AlexisRen: AlexisRenReply}, {TaylorSwift: TaylorSwiftReply}, {McKaylaMaroney: McKaylaMaroneyReply},\
 {SarahHyland: SarahHylandReply}, {ArielWinter: ArielWinterReply}, {KarlieKloss: KarlieKlossReply}, {KendallJenner: KendallJennerReply},\
 {KylieJenner: KylieJennerReply}, {ChloeBennet: ChloeBennetReply}, {HayleyAtwell: HayleyAtwellReply}, {AnnaKendrick: AnnaKendrickReply},\
 {DaniThorne: DaniThorneReply}, {BellaThorne: BellaThorneReply}, {EmiliaClarke: EmiliaClarkeReply}, {JessicaBiel: JessicaBielReply},\
 {AshleyBenson: AshleyBensonReply}, {MelissaBenoist: MelissaBenoistReply}, {MilanaVayntrub: MilanaVayntrubReply}, {HeidiKlum: HeidiKlumReply},\
-{StanaKatic: StanaKaticReply}, {BlakeLively: BlakeLivelyReply}, {MelissaDebling: MelissaDeblingReply}, {SarahShahi: SarahShahiReply}\
-{IrinaShayk: IrinaShaykReply}, {MarinaNery: MarinaNeryReply}, {SandraRadav: SandraRadavReply}, {VanessaHudgens: VanessaHudgensReply}\
-{KellyBrook: KellyBrookReply}, {MandyMoore: MandyMooreReply}, {AnnaFaith: AnnaFaithReply}, {LexieGrace: LexieGraceReply}, {FrostSisters: FrostSistersReply},\
-{TaylorHannum: TaylorHannumReply}, {CaraDelevingne: CaraDelevingneReply}, {LenaGercke: LenaGerckeReply}, {JenniferMorrison: JenniferMorrisonReply}\
-{MargotRobbie: MargotRobbieReply}, {AlyssaArce: AlyssaArceReply}, {MirandaKerr: MirandaKerrReply}, )
+{StanaKatic: StanaKaticReply}, {BlakeLively: BlakeLivelyReply}, {MelissaDebling: MelissaDeblingReply}, {SarahShahi: SarahShahiReply},\
+{IrinaShayk: IrinaShaykReply}, {MarinaNery: MarinaNeryReply}, {SandraRadav: SandraRadavReply}, {VanessaHudgens: VanessaHudgensReply},\
+{KellyBrook: KellyBrookReply}, {MandyMoore: MandyMooreReply}, {AnnaFaith: AnnaFaithReply}, {LexieGrace: LexieGraceReply},\
+{FrostSisters: FrostSistersReply}, {TaylorHannum: TaylorHannumReply}, {CaraDelevingne: CaraDelevingneReply}, {LenaGercke: LenaGerckeReply},\
+{JenniferMorrison: JenniferMorrisonReply}, {MargotRobbie: MargotRobbieReply}, {AlyssaArce: AlyssaArceReply}, {MirandaKerr: MirandaKerrReply},\
+{KarlieKloss: KarlieKlossReply}, {ElsaHosk: ElsaHoskReply}, {CandiceSwanepoel: CandiceSwanepoelReply}, {MeganFox: MeganFoxReply},\
+{IzzyMarshall: IzzyMarshallReply}, {ArianaGrande: ArianaGrandeReply}, {NathalieEmmanuel: NathalieEmmanuelReply}, {HannahFerguson: HannahFergusonReply}\
+{KateHudson: KateHudsonReply}, {NinaDobrev: NinaDobrevReply}, {DaphneJoy: DaphneJoyReply}, {EmilyRudd: EmilyRuddReply}, {OliviaCulpo: OliviaCulpoReply},\
+{OdetteAnnable: OdetteAnnableReply}, )
 
 #In this string put all+your+target_subreddits:
 subreddits_string = "celeb_username_bot+Celeb_Bot_Test+DrewsephA"
