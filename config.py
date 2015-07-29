@@ -325,6 +325,15 @@ AlyssaArceReply = """
 \n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
 """
 
+MirandaKerr = ("miranda", "kerr")
+MirandaKerrReply = """
+[Instagram](https://instagram.com/mirandakerr/)\n
+[Twitter](https://twitter.com/mirandakerr)\n
+[Facebook](https://www.facebook.com/MirandaKerr)\n
+[Website](http://www.mirandakerr.com/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
 celebs = ({SelenaGomez: SelenaGomezReply}, {AlexisRen: AlexisRenReply}, {TaylorSwift: TaylorSwiftReply}, {McKaylaMaroney: McKaylaMaroneyReply},\
 {SarahHyland: SarahHylandReply}, {ArielWinter: ArielWinterReply}, {KarlieKloss: KarlieKlossReply}, {KendallJenner: KendallJennerReply},\
 {KylieJenner: KylieJennerReply}, {ChloeBennet: ChloeBennetReply}, {HayleyAtwell: HayleyAtwellReply}, {AnnaKendrick: AnnaKendrickReply},\
@@ -334,7 +343,7 @@ celebs = ({SelenaGomez: SelenaGomezReply}, {AlexisRen: AlexisRenReply}, {TaylorS
 {IrinaShayk: IrinaShaykReply}, {MarinaNery: MarinaNeryReply}, {SandraRadav: SandraRadavReply}, {VanessaHudgens: VanessaHudgensReply}\
 {KellyBrook: KellyBrookReply}, {MandyMoore: MandyMooreReply}, {AnnaFaith: AnnaFaithReply}, {LexieGrace: LexieGraceReply}, {FrostSisters: FrostSistersReply},\
 {TaylorHannum: TaylorHannumReply}, {CaraDelevingne: CaraDelevingneReply}, {LenaGercke: LenaGerckeReply}, {JenniferMorrison: JenniferMorrisonReply}\
-{MargotRobbie: MargotRobbieReply}, {AlyssaArce: AlyssaArceReply})
+{MargotRobbie: MargotRobbieReply}, {AlyssaArce: AlyssaArceReply}, {MirandaKerr: MirandaKerrReply}, )
 
 #In this string put all+your+target_subreddits:
 subreddits_string = "celeb_username_bot+Celeb_Bot_Test+DrewsephA"
