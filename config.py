@@ -553,6 +553,36 @@ Snapchat: SammiHanratty1
 \n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
 """
 
+MargotRobbie = ("margot", "robbie")
+MargotRobbieReply = """
+[Instagram](https://instagram.com/margotrobbie/)\n
+[Twitter](https://twitter.com/MargotRobbie)\n
+[Whosay](http://www.whosay.com/margotrobbie)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+LaurenCohan = ("lauren", "cohan")
+LaurenCohanReply = """
+[Instagram](https://instagram.com/LaurenCohan)\n
+[Twitter](https://twitter.com/LaurenCohan)\n
+[Website](http://laurencohan.com/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+CamilaCabello = ("camila", "cabello")
+CamilaCabelloReply = """
+[Instagram](https://instagram.com/camila_cabello/)\n
+[Twitter](https://twitter.com/CamilaCabello97)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+YvonneStrahovski = ("yvonne", "strahovski")
+YvonneStrahovskiReply = """
+[Instagram](https://instagram.com/therealyvonnestrahovski/)\n
+[Twitter](https://twitter.com/Y_Strahovski/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
 JennaJenovich = ("jenna", "jenovich")
 JennaJenovichReply = """
 Snapchat: jennajenovich
@@ -577,6 +607,7 @@ celebs = ({SelenaGomez: SelenaGomezReply}, {AlexisRen: AlexisRenReply}, {TaylorS
 {OdetteAnnable: OdetteAnnableReply}, {OlgaKurylenko: OlgaKurylenkoReply}, {CarolSeleme: CarolSelemeReply}, {AlessandraAmbrosio: AlessandraAmbrosioReply},\
 {AlexSchmidt: AlexSchmidtReply}, {RachelHilbert: RachelHilbertReply}, {DevonWindsor: DevonWindsorReply}, {TaylorMarieHill: TaylorMarieHillReply},\
 {KateMara: KateMaraReply}, {ChloeGraceMortz: ChloeGraceMortzReply}, {CamilleRowe: CamilleRoweReply}, {SammiHanratty: SammiHanrattyReply},\
+{MargotRobbie: MargotRobbieReply}, {LaurenCohan: LaurenCohanReply}, {CamilaCabello: CamilaCabelloReply}, {YvonneStrahovski: YvonneStrahovskiReply},\
 {JennaJenovich: JennaJenovichReply}, {)
 
 #In this string put all+your+target_subreddits:
