@@ -687,7 +687,56 @@ RachaelFinchReply = """
 \n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
 """
 
-[start here]
+RachaelTaylor = ("rachael", "taylor")
+RachaelTaylorReply = """
+[Instagram](https://instagram.com/rachaelmaytaylor/)\n
+[Twitter](https://twitter.com/_Rachael_Taylor)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+ElisabettaCanalis = ("elisabetta", "canalis")
+ElisabettaCanalisReply = """
+[Instagram](https://instagram.com/littlecrumb_)\n
+[Twitter](https://twitter.com/justelisabetta)\n
+[Website](http://www.elisabettacanalis.com/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+SolveigMorkHansen = ("sloveig", "mork", "hansen")
+SolveigMorkHansenReply = """
+[Instagram](https://instagram.com/notsolveig)\n
+[Twitter](https://twitter.com/mhsolveig)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+AlyssaMilano = ("alyssa", "milano")
+AlyssaMilanoReply = """
+[Instagram](https://instagram.com/milano_Alyssa/)\n
+[Twitter: personal](https://twitter.com/Alyssa_Milano)\n
+[Facebook](https://www.facebook.com/AlyssaMilano)\n
+[Twitter: AlyssaDotCom](https://twitter.com/AlyssaDotCom)\n
+[Twitter: TouchByAM](https://twitter.com/TouchByAM)\n
+[Website](http://alyssa.com/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+FrancoiseBoufhal = ("francoise", "boufhal")
+FrancoiseBoufhalReply = """
+[Instagram](https://instagram.com/francoisebouf/)\n
+[Twitter](https://twitter.com/francoisebouf)\n
+[Facebook](https://www.facebook.com/officialfrancoise)\n
+[YouTube channel](https://www.youtube.com/user/officialfrancoise)\n
+[Website](http://www.officialfrancoise.com/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+KimberleyGarner = ("kimberley", "garner")
+KimberleyGarnerReply = """
+[Instagram](https://instagram.com/kimberleylondon)\n
+[Twitter](https://twitter.com/KimberleyLondon)\n
+[Website](http://www.kimberleylondon.com/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
 
 JennaJenovich = ("jenna", "jenovich")
 JennaJenovichReply = """
@@ -747,7 +796,8 @@ celebs = ({SelenaGomez: SelenaGomezReply}, {AlexisRen: AlexisRenReply}, {TaylorS
 {OliviaMunn: OliviaMunnReply}, {KatharineMcphee: KatharineMcpheeReply}, {EmmaRoberts: EmmaRobertsReply}, {SalmaHayek: SalmaHayekReply},\
 {KatyaEliseHenry: KatyaEliseHenryReply}, {ElizabethGillies: ElizabethGilliesReply}, {MichelleJenneke: MichelleJennekeReply}, {GwenCox: GwenCoxReply},\
 {DakotaJohnson: DakotaJohnsonReply}, {CamillaLuddington: CamillaLuddingtonReply}, {JennaHopkins: JennaHopkinsReply}, {PriscillaQuintana: PriscillaQuintanaReply},\
-{ {JennaJenovich: JennaJenovichReply}, {OliviaJordan: OliviaJordanReply}, {HannahPolites: HannahPolitesReply}, {DeniseMilani: DeniseMilaniReply}, {KatherineTimokhina: KatherineTimokhinaReply}, {)
+{RachaelFinch: RachaelFinchReply}, {RachaelTaylor: RachaelTaylorReply}, {ElisabettaCanalis: ElisabettaCanalisReply}, {SolveigMorkHansen: SolveigMorkHansenReply}\
+{AlyssaMilano: AlyssaMilanoReply}, {FrancoiseBoufhal: FrancoiseBoufhalReply}, {KimberleyGarner: KimberleyGarnerReply}, { {JennaJenovich: JennaJenovichReply}, {OliviaJordan: OliviaJordanReply}, {HannahPolites: HannahPolitesReply}, {DeniseMilani: DeniseMilaniReply}, {KatherineTimokhina: KatherineTimokhinaReply}, {)
 
 #In this string put all+your+target_subreddits:
 subreddits_string = "celeb_username_bot+Celeb_Bot_Test+DrewsephA"
