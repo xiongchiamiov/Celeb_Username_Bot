@@ -738,6 +738,49 @@ KimberleyGarnerReply = """
 \n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
 """
 
+CarlyCraig = ("carly", "craig")
+CarlyCraigReply = """
+[Instagram](https://instagram.com/carlyccraig/)\n
+[Twitter](https://twitter.com/carly_craig)\n
+[Facebook](https://www.facebook.com/CarlyCraigFB)\n
+[YouTube channel](https://www.youtube.com/user/carlycraig)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+KarolinaKurkova = ("karolina", "kurkova")
+KarolinaKurkovaReply = """
+[Instagram](https://instagram.com/karolinakurkova)\n
+[Twitter](https://twitter.com/KarolinaKurkova)\n
+[Facebook](https://www.facebook.com/KarolinaKurkova)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+LindsayHeyser = ("lindsay", "heyser")
+LindsayHeyserReply = """
+[Instagram](https://instagram.com/lheyser/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+RachelHurdWood = ("rachel", "hurdwood")
+RachelHurdWoodReply = """
+[Instagram](https://instagram.com/1rachelhurdwood/)\n
+[Twitter](https://twitter.com/rachelhurdwood)\n
+[Facebook](https://www.facebook.com/rachelhurdwood/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+TiannaGregory = ("tianna", "gregory")
+TiannaGregoryReply = """
+Snapchat: TiannaGregory
+[Instagram](https://instagram.com/_tiannag/)\n
+[Twitter](https://twitter.com/_TiannaG)\n
+[Tumblr](http://tnutty.tumblr.com/)\n
+[Facebook](https://www.facebook.com/pages/Tianna-Gregory/585670294906217)\n
+[Website](http://www.tiannagregory.com/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+-start
+
 JennaJenovich = ("jenna", "jenovich")
 JennaJenovichReply = """
 Snapchat: jennajenovich
@@ -797,7 +840,9 @@ celebs = ({SelenaGomez: SelenaGomezReply}, {AlexisRen: AlexisRenReply}, {TaylorS
 {KatyaEliseHenry: KatyaEliseHenryReply}, {ElizabethGillies: ElizabethGilliesReply}, {MichelleJenneke: MichelleJennekeReply}, {GwenCox: GwenCoxReply},\
 {DakotaJohnson: DakotaJohnsonReply}, {CamillaLuddington: CamillaLuddingtonReply}, {JennaHopkins: JennaHopkinsReply}, {PriscillaQuintana: PriscillaQuintanaReply},\
 {RachaelFinch: RachaelFinchReply}, {RachaelTaylor: RachaelTaylorReply}, {ElisabettaCanalis: ElisabettaCanalisReply}, {SolveigMorkHansen: SolveigMorkHansenReply}\
-{AlyssaMilano: AlyssaMilanoReply}, {FrancoiseBoufhal: FrancoiseBoufhalReply}, {KimberleyGarner: KimberleyGarnerReply}, { {JennaJenovich: JennaJenovichReply}, {OliviaJordan: OliviaJordanReply}, {HannahPolites: HannahPolitesReply}, {DeniseMilani: DeniseMilaniReply}, {KatherineTimokhina: KatherineTimokhinaReply}, {)
+{AlyssaMilano: AlyssaMilanoReply}, {FrancoiseBoufhal: FrancoiseBoufhalReply}, {KimberleyGarner: KimberleyGarnerReply}, {CarlyCraig: CarlyCraigReply},\
+{KarolinaKurkova: KarolinaKurkovaReply}, {LindsayHeyser: LindsayHeyserReply}, {RachelHurdWood: RachelHurdWoodReply}, {TiannaGregory: TiannaGregoryReply},\
+{ {JennaJenovich: JennaJenovichReply}, {OliviaJordan: OliviaJordanReply}, {HannahPolites: HannahPolitesReply}, {DeniseMilani: DeniseMilaniReply}, {KatherineTimokhina: KatherineTimokhinaReply},
 
 #In this string put all+your+target_subreddits:
 subreddits_string = "celeb_username_bot+Celeb_Bot_Test+DrewsephA"
