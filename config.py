@@ -760,6 +760,7 @@ LindsayHeyserReply = """
 [Instagram](https://instagram.com/lheyser/)\n
 \n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
 """
+
 RachelHurdWood = ("rachel", "hurdwood")
 RachelHurdWoodReply = """
 [Instagram](https://instagram.com/1rachelhurdwood/)\n
@@ -779,7 +780,38 @@ Snapchat: TiannaGregory
 \n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
 """
 
--start
+PaigeSpiranac = ("paige", "spiranac")
+PaigeSpiranacReply = """
+[Instagram](https://instagram.com/_paige.renee/)\n
+[Twitter](https://twitter.com/PaigeSpiranac)\n
+[Facebook](https://www.facebook.com/paigereneespiranac)\n
+[Website](http://paigespiranac.com/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+GeorgiaMayJagger = ("georgia", "may", "jagger")
+GeorgiaMayJaggerReply = """
+[Instagram](https://instagram.com/georgiamayjagger/)\n
+[Twitter](https://twitter.com/GeorgiaMJagger)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+BrookeBurke = ("brooke", "burke")
+BrookeBurkeReply = """
+[Instagram](https://instagram.com/brookeburke/)\n
+[Twitter](https://twitter.com/BrookeBurke)\n
+[Facebook](https://www.facebook.com/pages/Brooke-Burke/261925180496418)\n
+[WhoSay](http://www.whosay.com/brookeburke)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+SydneyFullerMarr = ("sydney", "fuller", "marr")
+SydneyFullerMarrReply = """
+[Instagram](https://instagram.com/misssydneyfuller/)\n
+\n-\n ^| ^v0.1 ^| ^I ^am ^a ^bot, ^accuracy ^not ^guaranteed ^| ^/r/Celeb_Username_Bot ^for ^questions, ^help, ^and ^bug ^reporting. ^| ^[Source](https://github.com/DrewsephA/Celeb_Username_Bot) ^|\n
+"""
+
+-start-
 
 JennaJenovich = ("jenna", "jenovich")
 JennaJenovichReply = """
@@ -842,6 +874,7 @@ celebs = ({SelenaGomez: SelenaGomezReply}, {AlexisRen: AlexisRenReply}, {TaylorS
 {RachaelFinch: RachaelFinchReply}, {RachaelTaylor: RachaelTaylorReply}, {ElisabettaCanalis: ElisabettaCanalisReply}, {SolveigMorkHansen: SolveigMorkHansenReply}\
 {AlyssaMilano: AlyssaMilanoReply}, {FrancoiseBoufhal: FrancoiseBoufhalReply}, {KimberleyGarner: KimberleyGarnerReply}, {CarlyCraig: CarlyCraigReply},\
 {KarolinaKurkova: KarolinaKurkovaReply}, {LindsayHeyser: LindsayHeyserReply}, {RachelHurdWood: RachelHurdWoodReply}, {TiannaGregory: TiannaGregoryReply},\
+{PaigeSpiranac: PaigeSpiranacReply}, {GeorgiaMayJagger: GeorgiaMayJaggerReply}, {BrookeBurke: BrookeBurkeReply}, {SydneyFullerMarr: SydneyFullerMarrReply},\
 { {JennaJenovich: JennaJenovichReply}, {OliviaJordan: OliviaJordanReply}, {HannahPolites: HannahPolitesReply}, {DeniseMilani: DeniseMilaniReply}, {KatherineTimokhina: KatherineTimokhinaReply},
 
 #In this string put all+your+target_subreddits:
