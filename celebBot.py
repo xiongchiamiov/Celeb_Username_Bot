@@ -64,10 +64,10 @@ def main():
                 with open('done', 'w') as f:
                     pickle.dump(done, f)
 
-                if submission.is_self == False: 
+                if not submission.is_self:
 
                     for i,j in enumerate(celebs):
-                        if Word(submission.title, j.keys()[0]) == True:
+                        if Word(submission.title, j.keys()[0]):
                             submission.add_comment(j.values()[0])
 
         except Exception as e:
