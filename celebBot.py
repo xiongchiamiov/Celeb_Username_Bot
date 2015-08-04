@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import praw
 import pickle
+import re
 import time
 from config import *
 from credentials import *
@@ -8,14 +9,7 @@ from credentials import *
 subreddits = submissions = done = None
 
 def extractWords(s):
-
-    alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', ' ']
-    array = []
-    for i in s.lower():
-        if i in [j.lower() for j in alphabet]:
-            array.append(i)
-
-    cleanedString = ''.join(array)
+    cleanedString = re.sub(r'[^a-zA-Z ]', '', s).lower()
     titleAsList = cleanedString.split(' ')
     return titleAsList
 
