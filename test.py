@@ -5,8 +5,7 @@ from celebBot import extractWords
 
 class CleanStringTest(unittest.TestCase):
     def testEmptyString(self):
-        # TODO: This should probably actually return an empty list.
-        self.assertEqual(extractWords(''), [''])
+        self.assertEqual(extractWords(''), [])
 
     def testLowercase(self):
         self.assertEqual(extractWords('asdf'), ['asdf'])
@@ -16,14 +15,11 @@ class CleanStringTest(unittest.TestCase):
 
     def testSpaces(self):
         self.assertEqual(extractWords('asdf qwer'), ['asdf', 'qwer'])
-        # TODO: Remove blank strings.
-        self.assertEqual(extractWords('asdf  qwer'), ['asdf', '', 'qwer'])
-        # TODO: Support any spaces for separators.
-        self.assertEqual(extractWords("asdf\tqwer"), ['asdfqwer'])
+        self.assertEqual(extractWords('asdf  qwer'), ['asdf', 'qwer'])
+        self.assertEqual(extractWords("asdf\tqwer"), ['asdf', 'qwer'])
 
     def testDigits(self):
-        # TODO: Remove blank strings.
-        self.assertEqual(extractWords('1234'), [''])
+        self.assertEqual(extractWords('1234'), [])
         self.assertEqual(extractWords('as12df'), ['asdf'])
 
 if __name__ == '__main__':

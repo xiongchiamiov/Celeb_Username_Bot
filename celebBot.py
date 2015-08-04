@@ -9,8 +9,8 @@ from credentials import *
 subreddits = submissions = done = None
 
 def extractWords(s):
-    cleanedString = re.sub(r'[^a-zA-Z ]', '', s).lower()
-    titleAsList = cleanedString.split(' ')
+    cleanedString = re.sub(r'[^a-zA-Z\s]', '', s).lower()
+    titleAsList = cleanedString.split()
     return titleAsList
 
 def Word(Title, inGroup):
