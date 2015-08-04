@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import praw
 import pickle
 import time
