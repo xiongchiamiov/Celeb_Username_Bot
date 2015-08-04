@@ -5,41 +5,22 @@ import time
 from config import *
 from credentials import *
 
-r = praw.Reddit(user_agent=REDDIT_USERAGENT)
-r.login(REDDIT_USERNAME, REDDIT_PASSWORD)
+subreddits = submissions = done = None
 
-
-try:
-
-    with open("done", "r") as f:
-        done = pickle.load(f)
-
-    subreddits = r.get_subreddit(subreddits_string)
-    submissions =  list(subreddits.get_new(limit=50))
-
-except:
-
-    subreddits = r.get_subreddit(subreddits_string)
-    submissions =  list(subreddits.get_new(limit=50))
-
-    done = []
-    for submission in submissions:
-        done.append(submission.id)
-
-    with open('done', 'w') as f:
-        pickle.dump(done, f)
-
-
-def Word(Title, inGroup):
+def extractWords(s):
 
     alphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', ' ']
     array = []
-    for i in Title.lower():
+    for i in s.lower():
         if i in [j.lower() for j in alphabet]:
             array.append(i)
 
     cleanedString = ''.join(array)
     titleAsList = cleanedString.split(' ')
+    return titleAsList
+
+def Word(Title, inGroup):
+    titleAsList = extractWords(Title)
     inGroup = list(inGroup)
 
     names = []
@@ -78,6 +59,31 @@ def main():
 
 
 if __name__ == "__main__":
+
+    r = praw.Reddit(user_agent=REDDIT_USERAGENT)
+    r.login(REDDIT_USERNAME, REDDIT_PASSWORD)
+
+
+    try:
+
+        with open("done", "r") as f:
+            done = pickle.load(f)
+
+        subreddits = r.get_subreddit(subreddits_string)
+        submissions =  list(subreddits.get_new(limit=50))
+
+    except:
+
+        subreddits = r.get_subreddit(subreddits_string)
+        submissions =  list(subreddits.get_new(limit=50))
+
+        done = []
+        for submission in submissions:
+            done.append(submission.id)
+
+        with open('done', 'w') as f:
+            pickle.dump(done, f)
+
 
     while True:
 
